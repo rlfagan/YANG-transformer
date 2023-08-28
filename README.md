@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FYANG-transformer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FYANG-transformer?ref=badge_shield)
+
 JSON to OpenConfig YANG JSON Transformer
 =====================================================
 
@@ -38,3 +40,7 @@ Test Validation
 ---------------
 {"topic": "ENMV_SAMSUNG5G_CPEDATA", "jsonStr": {"perfdata": {"eventTime": "2019-03-23T02:50:00+00:00", "annotatedFamilyId": "CPE_RESOURCE", "neId": "100", "neType": "cpefama", "familyId": 601, "neVersion": "v_0_2_3_28", "indexData": {"0": {"indexId": 0, "indexName": "CPE ID", "indexValue": "20dbab03f5ec"}}, "payloadData": {"0": {"typeId": 0, "valueUnit": "%", "typeValue": "2.066667", "valueType": "float", "typeName": "ControlCpuUsage"}, "1": {"typeId": 1, "valueUnit": "%", "typeValue": "26.000000", "valueType": "float", "typeName": "MemoryUsage"}, "2": {"typeId": 2, "valueUnit": "%", "typeValue": "10.000000", "valueType": "float", "typeName": "DiskUsage"}, "3": {"typeId": 3, "valueUnit": "u00b0C", "typeValue": "27.000000", "valueType": "float", "typeName": "Temperature"}}}}}
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FYANG-transformer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FYANG-transformer?ref=badge_large)
